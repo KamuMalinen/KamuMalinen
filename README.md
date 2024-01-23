@@ -1,9 +1,14 @@
-Student
+# About me
 
-I have interests but no expertise in
+Computing and Electrical Engineering student majoring in software development.
 
--cybersecurity
--games
--and general peripheral "[hifistely](https://en.wiktionary.org/wiki/hifistely)"
+Have interests but no real expertise in
 
-among other things
+- cybersecurity
+- difficult games
+- and general peripheral "[hifistely](https://en.wiktionary.org/wiki/hifistely)"
+
+among other things technical.
+
+Regarding non-technical topics, I find rats (the animal) to be fascinating and
+simplicity to be ideal most of the time.
